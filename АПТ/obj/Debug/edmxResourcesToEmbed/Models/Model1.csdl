@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TehModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Table">
+    <Key>
+      <PropertyRef Name="StudId" />
+    </Key>
+    <Property Name="StudId" Type="Int32" Nullable="false" />
+    <Property Name="Фамилия" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Имя" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Группа" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Рост" Type="Int32" Nullable="false" />
+    <Property Name="День_рождения" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Средний_бал" Type="Double" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="TehEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Tables" EntityType="Self.Table" />
+  </EntityContainer>
+</Schema>

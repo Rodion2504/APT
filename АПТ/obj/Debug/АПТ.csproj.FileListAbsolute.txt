@@ -1,0 +1,336 @@
+D:\VS 2019\АПТ\АПТ\bin\АПТ.dll.config
+D:\VS 2019\АПТ\АПТ\bin\АПТ.dll
+D:\VS 2019\АПТ\АПТ\bin\АПТ.pdb
+D:\VS 2019\АПТ\АПТ\bin\roslyn\csc.exe
+D:\VS 2019\АПТ\АПТ\bin\roslyn\csc.exe.config
+D:\VS 2019\АПТ\АПТ\bin\roslyn\csc.rsp
+D:\VS 2019\АПТ\АПТ\bin\roslyn\csi.exe
+D:\VS 2019\АПТ\АПТ\bin\roslyn\csi.exe.config
+D:\VS 2019\АПТ\АПТ\bin\roslyn\csi.rsp
+D:\VS 2019\АПТ\АПТ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VS 2019\АПТ\АПТ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\Microsoft.Managed.Core.targets
+D:\VS 2019\АПТ\АПТ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VS 2019\АПТ\АПТ\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.AppContext.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.Collections.Immutable.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.Console.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.Globalization.Calendars.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.IO.Compression.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.IO.FileSystem.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.Net.Http.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.Net.Sockets.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.Reflection.Metadata.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.ValueTuple.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.Xml.XmlDocument.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.Xml.XPath.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\VS 2019\АПТ\АПТ\bin\roslyn\vbc.exe
+D:\VS 2019\АПТ\АПТ\bin\roslyn\vbc.exe.config
+D:\VS 2019\АПТ\АПТ\bin\roslyn\vbc.rsp
+D:\VS 2019\АПТ\АПТ\bin\roslyn\VBCSCompiler.exe
+D:\VS 2019\АПТ\АПТ\bin\roslyn\VBCSCompiler.exe.config
+D:\VS 2019\АПТ\АПТ\bin\Antlr3.Runtime.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Web.Infrastructure.dll
+D:\VS 2019\АПТ\АПТ\bin\Newtonsoft.Json.dll
+D:\VS 2019\АПТ\АПТ\bin\System.Web.Helpers.dll
+D:\VS 2019\АПТ\АПТ\bin\System.Web.Mvc.dll
+D:\VS 2019\АПТ\АПТ\bin\System.Web.Optimization.dll
+D:\VS 2019\АПТ\АПТ\bin\System.Web.Razor.dll
+D:\VS 2019\АПТ\АПТ\bin\System.Web.WebPages.Deployment.dll
+D:\VS 2019\АПТ\АПТ\bin\System.Web.WebPages.dll
+D:\VS 2019\АПТ\АПТ\bin\System.Web.WebPages.Razor.dll
+D:\VS 2019\АПТ\АПТ\bin\WebGrease.dll
+D:\VS 2019\АПТ\АПТ\bin\System.Web.Helpers.xml
+D:\VS 2019\АПТ\АПТ\bin\System.Web.Mvc.xml
+D:\VS 2019\АПТ\АПТ\bin\System.Web.Optimization.xml
+D:\VS 2019\АПТ\АПТ\bin\System.Web.Razor.xml
+D:\VS 2019\АПТ\АПТ\bin\System.Web.WebPages.xml
+D:\VS 2019\АПТ\АПТ\bin\System.Web.WebPages.Deployment.xml
+D:\VS 2019\АПТ\АПТ\bin\System.Web.WebPages.Razor.xml
+D:\VS 2019\АПТ\АПТ\bin\Newtonsoft.Json.xml
+D:\VS 2019\АПТ\АПТ\bin\Antlr3.Runtime.pdb
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VS 2019\АПТ\АПТ\bin\ru\System.Web.Helpers.resources.dll
+D:\VS 2019\АПТ\АПТ\bin\ru\System.Web.Mvc.resources.dll
+D:\VS 2019\АПТ\АПТ\bin\ru\System.Web.Optimization.resources.dll
+D:\VS 2019\АПТ\АПТ\bin\ru\System.Web.Razor.resources.dll
+D:\VS 2019\АПТ\АПТ\bin\ru\System.Web.WebPages.resources.dll
+D:\VS 2019\АПТ\АПТ\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\VS 2019\АПТ\АПТ\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\VS 2019\АПТ\АПТ\obj\Debug\АПТ.csproj.CoreCompileInputs.cache
+D:\VS 2019\АПТ\АПТ\obj\Debug\АПТ.csproj.CopyComplete
+D:\VS 2019\АПТ\АПТ\obj\Debug\АПТ.dll
+D:\VS 2019\АПТ\АПТ\obj\Debug\АПТ.pdb
+D:\VS 2019\АПТ\АПТ\bin\EntityFramework.dll
+D:\VS 2019\АПТ\АПТ\bin\EntityFramework.SqlServer.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Bcl.HashCode.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Data.SqlClient.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.EntityFrameworkCore.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Extensions.Configuration.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Extensions.Logging.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Extensions.Options.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Extensions.Primitives.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Identity.Client.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.IdentityModel.Logging.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.IdentityModel.Protocols.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.IdentityModel.Tokens.dll
+D:\VS 2019\АПТ\АПТ\bin\System.Buffers.dll
+D:\VS 2019\АПТ\АПТ\bin\System.Collections.Immutable.dll
+D:\VS 2019\АПТ\АПТ\bin\System.ComponentModel.Annotations.dll
+D:\VS 2019\АПТ\АПТ\bin\System.Diagnostics.DiagnosticSource.dll
+D:\VS 2019\АПТ\АПТ\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\VS 2019\АПТ\АПТ\bin\System.Memory.dll
+D:\VS 2019\АПТ\АПТ\bin\System.Numerics.Vectors.dll
+D:\VS 2019\АПТ\АПТ\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\VS 2019\АПТ\АПТ\bin\System.Threading.Tasks.Extensions.dll
+D:\VS 2019\АПТ\АПТ\bin\EntityFramework.xml
+D:\VS 2019\АПТ\АПТ\bin\EntityFramework.SqlServer.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Bcl.HashCode.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Data.SqlClient.pdb
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Data.SqlClient.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.EntityFrameworkCore.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.EntityFrameworkCore.Relational.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Extensions.Configuration.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Extensions.Logging.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Extensions.Options.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Extensions.Primitives.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.Identity.Client.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.IdentityModel.Logging.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.IdentityModel.Protocols.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\VS 2019\АПТ\АПТ\bin\Microsoft.IdentityModel.Tokens.xml
+D:\VS 2019\АПТ\АПТ\bin\System.Buffers.xml
+D:\VS 2019\АПТ\АПТ\bin\System.Collections.Immutable.xml
+D:\VS 2019\АПТ\АПТ\bin\System.Diagnostics.DiagnosticSource.xml
+D:\VS 2019\АПТ\АПТ\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\VS 2019\АПТ\АПТ\bin\System.Memory.xml
+D:\VS 2019\АПТ\АПТ\bin\System.Numerics.Vectors.xml
+D:\VS 2019\АПТ\АПТ\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\VS 2019\АПТ\АПТ\bin\System.Threading.Tasks.Extensions.xml
+D:\VS 2019\АПТ\АПТ\bin\de\Microsoft.Data.SqlClient.resources.dll
+D:\VS 2019\АПТ\АПТ\bin\es\Microsoft.Data.SqlClient.resources.dll
+D:\VS 2019\АПТ\АПТ\bin\fr\Microsoft.Data.SqlClient.resources.dll
+D:\VS 2019\АПТ\АПТ\bin\it\Microsoft.Data.SqlClient.resources.dll
+D:\VS 2019\АПТ\АПТ\bin\ja\Microsoft.Data.SqlClient.resources.dll
+D:\VS 2019\АПТ\АПТ\bin\ko\Microsoft.Data.SqlClient.resources.dll
+D:\VS 2019\АПТ\АПТ\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\VS 2019\АПТ\АПТ\bin\ru\Microsoft.Data.SqlClient.resources.dll
+D:\VS 2019\АПТ\АПТ\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\VS 2019\АПТ\АПТ\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\VS 2019\АПТ\АПТ\bin\ru\EntityFramework.resources.dll
+D:\VS 2019\АПТ\АПТ\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\VS 2019\АПТ\АПТ\obj\Debug\АПТ.csprojAssemblyReference.cache
+E:\ConsStroka\АПТ\АПТ\bin\АПТ.dll.config
+E:\ConsStroka\АПТ\АПТ\bin\АПТ.dll
+E:\ConsStroka\АПТ\АПТ\bin\АПТ.pdb
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\csc.exe
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\csc.exe.config
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\csc.rsp
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\csi.exe
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\csi.exe.config
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\csi.rsp
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.AppContext.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.Collections.Immutable.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.Console.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.Globalization.Calendars.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.IO.Compression.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.IO.FileSystem.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.Net.Http.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.Net.Sockets.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.Reflection.Metadata.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.ValueTuple.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.Xml.XPath.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\vbc.exe
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\vbc.exe.config
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\vbc.rsp
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\VBCSCompiler.exe
+E:\ConsStroka\АПТ\АПТ\bin\roslyn\VBCSCompiler.exe.config
+E:\ConsStroka\АПТ\АПТ\bin\Antlr3.Runtime.dll
+E:\ConsStroka\АПТ\АПТ\bin\EntityFramework.dll
+E:\ConsStroka\АПТ\АПТ\bin\EntityFramework.SqlServer.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Bcl.HashCode.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Data.SqlClient.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.EntityFrameworkCore.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Extensions.Configuration.Binder.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Extensions.Configuration.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Extensions.Logging.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Extensions.Options.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Extensions.Primitives.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Identity.Client.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.IdentityModel.Logging.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.IdentityModel.Protocols.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.IdentityModel.Tokens.dll
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Web.Infrastructure.dll
+E:\ConsStroka\АПТ\АПТ\bin\Newtonsoft.Json.dll
+E:\ConsStroka\АПТ\АПТ\bin\System.Buffers.dll
+E:\ConsStroka\АПТ\АПТ\bin\System.Collections.Immutable.dll
+E:\ConsStroka\АПТ\АПТ\bin\System.ComponentModel.Annotations.dll
+E:\ConsStroka\АПТ\АПТ\bin\System.Diagnostics.DiagnosticSource.dll
+E:\ConsStroka\АПТ\АПТ\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\ConsStroka\АПТ\АПТ\bin\System.Memory.dll
+E:\ConsStroka\АПТ\АПТ\bin\System.Numerics.Vectors.dll
+E:\ConsStroka\АПТ\АПТ\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\ConsStroka\АПТ\АПТ\bin\System.Threading.Tasks.Extensions.dll
+E:\ConsStroka\АПТ\АПТ\bin\System.Web.Helpers.dll
+E:\ConsStroka\АПТ\АПТ\bin\System.Web.Mvc.dll
+E:\ConsStroka\АПТ\АПТ\bin\System.Web.Optimization.dll
+E:\ConsStroka\АПТ\АПТ\bin\System.Web.Razor.dll
+E:\ConsStroka\АПТ\АПТ\bin\System.Web.WebPages.Deployment.dll
+E:\ConsStroka\АПТ\АПТ\bin\System.Web.WebPages.dll
+E:\ConsStroka\АПТ\АПТ\bin\System.Web.WebPages.Razor.dll
+E:\ConsStroka\АПТ\АПТ\bin\WebGrease.dll
+E:\ConsStroka\АПТ\АПТ\bin\EntityFramework.xml
+E:\ConsStroka\АПТ\АПТ\bin\EntityFramework.SqlServer.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Bcl.HashCode.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Data.SqlClient.pdb
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Data.SqlClient.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.EntityFrameworkCore.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.EntityFrameworkCore.Relational.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Extensions.Configuration.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Extensions.Configuration.Binder.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Extensions.Logging.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Extensions.Options.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Extensions.Primitives.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.Identity.Client.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.IdentityModel.Logging.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.IdentityModel.Protocols.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.IdentityModel.Tokens.xml
+E:\ConsStroka\АПТ\АПТ\bin\System.Buffers.xml
+E:\ConsStroka\АПТ\АПТ\bin\System.Collections.Immutable.xml
+E:\ConsStroka\АПТ\АПТ\bin\System.Diagnostics.DiagnosticSource.xml
+E:\ConsStroka\АПТ\АПТ\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\ConsStroka\АПТ\АПТ\bin\System.Memory.xml
+E:\ConsStroka\АПТ\АПТ\bin\System.Numerics.Vectors.xml
+E:\ConsStroka\АПТ\АПТ\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\ConsStroka\АПТ\АПТ\bin\System.Threading.Tasks.Extensions.xml
+E:\ConsStroka\АПТ\АПТ\bin\System.Web.Helpers.xml
+E:\ConsStroka\АПТ\АПТ\bin\System.Web.Mvc.xml
+E:\ConsStroka\АПТ\АПТ\bin\System.Web.Optimization.xml
+E:\ConsStroka\АПТ\АПТ\bin\System.Web.Razor.xml
+E:\ConsStroka\АПТ\АПТ\bin\System.Web.WebPages.xml
+E:\ConsStroka\АПТ\АПТ\bin\System.Web.WebPages.Deployment.xml
+E:\ConsStroka\АПТ\АПТ\bin\System.Web.WebPages.Razor.xml
+E:\ConsStroka\АПТ\АПТ\bin\Newtonsoft.Json.xml
+E:\ConsStroka\АПТ\АПТ\bin\Antlr3.Runtime.pdb
+E:\ConsStroka\АПТ\АПТ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ConsStroka\АПТ\АПТ\bin\ru\EntityFramework.resources.dll
+E:\ConsStroka\АПТ\АПТ\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\ConsStroka\АПТ\АПТ\bin\de\Microsoft.Data.SqlClient.resources.dll
+E:\ConsStroka\АПТ\АПТ\bin\es\Microsoft.Data.SqlClient.resources.dll
+E:\ConsStroka\АПТ\АПТ\bin\fr\Microsoft.Data.SqlClient.resources.dll
+E:\ConsStroka\АПТ\АПТ\bin\it\Microsoft.Data.SqlClient.resources.dll
+E:\ConsStroka\АПТ\АПТ\bin\ja\Microsoft.Data.SqlClient.resources.dll
+E:\ConsStroka\АПТ\АПТ\bin\ko\Microsoft.Data.SqlClient.resources.dll
+E:\ConsStroka\АПТ\АПТ\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\ConsStroka\АПТ\АПТ\bin\ru\Microsoft.Data.SqlClient.resources.dll
+E:\ConsStroka\АПТ\АПТ\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\ConsStroka\АПТ\АПТ\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\ConsStroka\АПТ\АПТ\bin\ru\System.Web.Helpers.resources.dll
+E:\ConsStroka\АПТ\АПТ\bin\ru\System.Web.Mvc.resources.dll
+E:\ConsStroka\АПТ\АПТ\bin\ru\System.Web.Optimization.resources.dll
+E:\ConsStroka\АПТ\АПТ\bin\ru\System.Web.Razor.resources.dll
+E:\ConsStroka\АПТ\АПТ\bin\ru\System.Web.WebPages.resources.dll
+E:\ConsStroka\АПТ\АПТ\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\ConsStroka\АПТ\АПТ\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\ConsStroka\АПТ\АПТ\obj\Debug\АПТ.csproj.CoreCompileInputs.cache
+E:\ConsStroka\АПТ\АПТ\obj\Debug\АПТ.csproj.CopyComplete
+E:\ConsStroka\АПТ\АПТ\obj\Debug\АПТ.dll
+E:\ConsStroka\АПТ\АПТ\obj\Debug\АПТ.pdb
+E:\ConsStroka\АПТ\АПТ\obj\Debug\АПТ.csproj.AssemblyReference.cache

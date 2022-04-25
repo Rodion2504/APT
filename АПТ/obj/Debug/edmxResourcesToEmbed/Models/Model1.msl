@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище TehModelContainer" CdmEntityContainer="TehEntities">
+    <EntitySetMapping Name="Tables">
+      <EntityTypeMapping TypeName="TehModel.Table">
+        <MappingFragment StoreEntitySet="Table">
+          <ScalarProperty Name="StudId" ColumnName="StudId" />
+          <ScalarProperty Name="Фамилия" ColumnName="Фамилия" />
+          <ScalarProperty Name="Имя" ColumnName="Имя" />
+          <ScalarProperty Name="Группа" ColumnName="Группа" />
+          <ScalarProperty Name="Рост" ColumnName="Рост" />
+          <ScalarProperty Name="День_рождения" ColumnName="День рождения" />
+          <ScalarProperty Name="Средний_бал" ColumnName="Средний бал" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

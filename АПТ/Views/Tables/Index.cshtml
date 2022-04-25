@@ -1,0 +1,64 @@
+﻿@model IEnumerable<АПТ.Models.Table>
+
+@{
+    ViewBag.Title = "Студенты";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Студенты</h2>
+
+<p>
+    @Html.ActionLink("Новый студент", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Фамилия)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Имя)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Группа)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Рост)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.День_рождения)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Средний_бал)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Фамилия)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Имя)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Группа)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Рост)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.День_рождения)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Средний_бал)
+        </td>
+        <td>
+            @Html.ActionLink("Изменить", "Edit", new { id=item.StudId }) |
+            @Html.ActionLink("Детали", "Details", new { id=item.StudId }) |
+            @Html.ActionLink("Удалить", "Delete", new { id=item.StudId })
+        </td>
+    </tr>
+}
+
+</table>
